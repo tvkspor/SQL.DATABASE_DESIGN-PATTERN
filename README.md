@@ -4,13 +4,13 @@ This project is for making a efficient sql and design.
 
 ## Table of content
 
-- [Giới Thiệu](#giới-thiệu)
+- [PrimaryKey](#PrimaryKey)
 - [Cài Đặt](#cài-đặt)
 - [Sử Dụng](#sử-dụng)
 - [Đóng Góp](#đóng-góp)
 - [Giấy Phép](#giấy-phép)
 
-## Giới Thiệu
+## PrimaryKey
 
 My Awesome Project is designed to help users manage their daily tasks efficiently. It provides a simple interface to add, delete, and view tasks.
 
